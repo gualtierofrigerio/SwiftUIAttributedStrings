@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		251BD570266F79A9005A13DC /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 251BD56F266F79A9005A13DC /* ContentViewModel.swift */; };
 		256E47F2230BF68C004C03CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 256E47F1230BF68C004C03CC /* AppDelegate.swift */; };
 		256E47F4230BF68C004C03CC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 256E47F3230BF68C004C03CC /* SceneDelegate.swift */; };
 		256E47F6230BF68C004C03CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 256E47F5230BF68C004C03CC /* ContentView.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		251BD56F266F79A9005A13DC /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 		256E47EE230BF68C004C03CC /* SwiftUIAttributedStrings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIAttributedStrings.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		256E47F1230BF68C004C03CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		256E47F3230BF68C004C03CC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				256E47F1230BF68C004C03CC /* AppDelegate.swift */,
 				256E47F5230BF68C004C03CC /* ContentView.swift */,
+				251BD56F266F79A9005A13DC /* ContentViewModel.swift */,
 				256E47F3230BF68C004C03CC /* SceneDelegate.swift */,
 				256E4805230C183E004C03CC /* TextWithAttributedString.swift */,
 				256E47F7230BF68D004C03CC /* Assets.xcassets */,
@@ -153,6 +156,7 @@
 				256E4806230C183E004C03CC /* TextWithAttributedString.swift in Sources */,
 				256E47F4230BF68C004C03CC /* SceneDelegate.swift in Sources */,
 				256E47F6230BF68C004C03CC /* ContentView.swift in Sources */,
+				251BD570266F79A9005A13DC /* ContentViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
